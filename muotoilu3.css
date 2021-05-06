@@ -1,0 +1,41 @@
+#container1 {
+    margin:auto;
+    padding: 8px;
+    width: 50%;
+    
+}
+#container2 {
+    margin:auto;
+    padding: 4px;
+    width: 20%;
+}
+body {
+    background-color: rgb(90, 182, 14);
+    font-size: 18px;
+}
+h1 {
+    text-align: center;
+    background-color:rgb(230, 106, 106);
+    padding: 15px;
+}
+.kiisu {
+
+    margin:10px;
+    height: 600px;
+    width:500px;
+    margin: auto;
+    
+}
+.kiisu img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    
+}
+.liihis {
+    padding: 2px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+
+}
